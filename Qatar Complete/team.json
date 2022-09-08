@@ -1,0 +1,29 @@
+{
+   "argentina": {
+        "id": 1,
+        "teamName": "Argentina",
+        "teamImage": "argentinaImg",
+        "description": "From the very first tournament onward, Argentina have boasted a rich history in the World Cup. With two winners' medals and two further appearances in the final, few teams have made such an impact on the competition as the Albiceleste.Naturally enough then, picking the side's greatest moments from 1930 to 2010—a period of no less than 80 years—is never going to be an easy task. From their greatest wins to their cruelest heartbreaks, and including in the middle some of the greatest goals ever to bless the painted lines of a football pitch, here are 30 of the most memorable moments of the Argentine national team."
+        },
+   
+   "arabiasaudita": {
+        "id": 2,
+        "teamName": "Arabia Saudita",
+        "teamImage": "arabiasauditaImg",
+        "description": "Considered one of Asia's most successful national teams, Saudi Arabia have won the Asian Cup three times (1984, 1988, and 1996), reached a joint record six Asian Cup finals and have qualified for the World Cup on six occasions since debuting at the 1994 tournament. Saudi Arabia is the first AFC nation to reach the final of a senior FIFA competition, when it achieved during the 1992 King Fahd Cup, which would eventually become the eventual FIFA Confederations Cup. Only Australia and Japan managed to repeat this feat, in 1997 and 2001, though Australia achieved it when it was a member of the OFC. In the 1994 World Cup, under the leadership of Jorge Solari, Saudi Arabia beat both Belgium and Morocco in the group stage before falling to Sweden in the Round of 16. Thus Saudi Arabia became the second Arab national football team in history to reach the Round of 16 in a World Cup, after Morocco's Round of 16 elimination in the 1986 FIFA World Cup, and one of the few Asian national football teams (others being Australia, Japan, South Korea, North Korea) to accomplish such a feat to date."
+    },
+    "holanda":{
+        "id": 3,
+        "teamName": "Holanda",
+        "teamImage": "holandaImg",
+       "description": "has represented the Netherlands in international men's football matches since 1905. The men's national team is controlled by the Royal Dutch Football Association (KNVB), the governing body for football in the Netherlands, which is a part of UEFA, and under the jurisdiction of FIFA. They are widely considered one of the best national teams in world football and widely regarded as one of the greatest national teams of all time.[6][7][8][9][10]Most of the Netherlands' home matches are played at the Johan Cruyff Arena, De Kuip, Philips Stadion and De Grolsch Veste. The team is colloquially referred to as Het Nederlands Elftal (The Dutch Eleven) or Oranje, after the House of Orange-Nassau and their distinctive orange jerseys. Informally the team, like the country itself, was referred to as Holland. The fan club is known as Het Oranje Legioen (The Orange Legion).[11] The Netherlands has competed in ten FIFA World Cup, appearing in the finals three times (in 1974, 1978 and 2010). They have also appeared in ten UEFA European Championship, winning the 1988 tournament in West Germany. Additionally, the team won a bronze medal at the Olympic football tournament in 1908, 1912 and 1920. The Netherlands has long-standing football rivalries with neighbours Belgium and Germany."
+       
+    },
+    "inglaterra": {
+        "id": 4,
+        "teamName": "Inglaterra",
+        "teamImage": "inglaterraImg",
+       "description": "La selección de fútbol de Inglaterra (en inglés, England national football team) es el equipo representativo del país desde 1809 y es controlado por la Asociación Inglesa de Fútbol (The Football Association) en las competiciones oficiales organizadas por la Unión Europea de Asociaciones de Fútbol y la Federación Internacional de Asociaciones de Fútbol. El combinado inglés es el más antiguo de las existentes y tiene el honor de ser la primera selección nacional que jugó un partido internacional, el 30 de noviembre de 1872, contra la selección de Escocia. Es por esto que Inglaterra ha tenido un rol clave en el desarrollo de este deporte, siendo considerados los inventores y promotores del fútbol. Pese a ser el más antiguo combinado mundial, no fue una de las entidades que participaron en la fundación de la FIFA,n 2​ y no se afiliaría a ella hasta el año 1905 tras reconocer a las demás asociaciones de fútbol, y es considerado como uno de los mayores logros de la FIFA.4​ Por aquella misma época, disputaba la supremacía frente a Escocia, e incluso contaba con un combinado amateur para enfrentarse a los equipos de fuera de las islas británicas que perduró desde 1906 hasta 1974"
+       
+    },
+}

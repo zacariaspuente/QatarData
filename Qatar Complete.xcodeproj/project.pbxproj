@@ -14,6 +14,18 @@
 		A268E39C28C8E68E00198D35 /* Qatar_CompleteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E39B28C8E68E00198D35 /* Qatar_CompleteTests.swift */; };
 		A268E3A628C8E68E00198D35 /* Qatar_CompleteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3A528C8E68E00198D35 /* Qatar_CompleteUITests.swift */; };
 		A268E3A828C8E68E00198D35 /* Qatar_CompleteUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3A728C8E68E00198D35 /* Qatar_CompleteUITestsLaunchTests.swift */; };
+		A268E3B728C8ECF100198D35 /* Bundle-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3B628C8ECF100198D35 /* Bundle-Extension.swift */; };
+		A268E3B928C8ED2900198D35 /* Groups.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3B828C8ED2900198D35 /* Groups.swift */; };
+		A268E3BD28C8F07200198D35 /* team.json in Resources */ = {isa = PBXBuildFile; fileRef = A268E3BC28C8F07200198D35 /* team.json */; };
+		A268E3BF28C8F0D100198D35 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3BE28C8F0D100198D35 /* Team.swift */; };
+		A268E3C128C903F100198D35 /* TeamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3C028C903F100198D35 /* TeamView.swift */; };
+		A268E3C328C9252B00198D35 /* allTeams.json in Resources */ = {isa = PBXBuildFile; fileRef = A268E3C228C9252B00198D35 /* allTeams.json */; };
+		A268E3C528C93D3E00198D35 /* groups.json in Resources */ = {isa = PBXBuildFile; fileRef = A268E3C428C93D3E00198D35 /* groups.json */; };
+		A268E3C728C9416500198D35 /* TeamsDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3C628C9416500198D35 /* TeamsDetail.swift */; };
+		A268E3C928C942BA00198D35 /* aFewPlayers.json in Resources */ = {isa = PBXBuildFile; fileRef = A268E3C828C942BA00198D35 /* aFewPlayers.json */; };
+		A268E3CB28C985E800198D35 /* Players.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3CA28C985E800198D35 /* Players.swift */; };
+		A268E3CF28CA36CB00198D35 /* TeamMembers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3CE28CA36CB00198D35 /* TeamMembers.swift */; };
+		A268E3D128CA398F00198D35 /* GroupTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = A268E3D028CA398F00198D35 /* GroupTeam.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +56,18 @@
 		A268E3A128C8E68E00198D35 /* Qatar CompleteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Qatar CompleteUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A268E3A528C8E68E00198D35 /* Qatar_CompleteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Qatar_CompleteUITests.swift; sourceTree = "<group>"; };
 		A268E3A728C8E68E00198D35 /* Qatar_CompleteUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Qatar_CompleteUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A268E3B628C8ECF100198D35 /* Bundle-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-Extension.swift"; sourceTree = "<group>"; };
+		A268E3B828C8ED2900198D35 /* Groups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Groups.swift; sourceTree = "<group>"; };
+		A268E3BC28C8F07200198D35 /* team.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = team.json; sourceTree = "<group>"; };
+		A268E3BE28C8F0D100198D35 /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		A268E3C028C903F100198D35 /* TeamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamView.swift; sourceTree = "<group>"; };
+		A268E3C228C9252B00198D35 /* allTeams.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = allTeams.json; path = "../../QatarData/JSON FILES/allTeams.json"; sourceTree = "<group>"; };
+		A268E3C428C93D3E00198D35 /* groups.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = groups.json; path = "JSON FILES/groups.json"; sourceTree = SOURCE_ROOT; };
+		A268E3C628C9416500198D35 /* TeamsDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamsDetail.swift; sourceTree = "<group>"; };
+		A268E3C828C942BA00198D35 /* aFewPlayers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = aFewPlayers.json; sourceTree = "<group>"; };
+		A268E3CA28C985E800198D35 /* Players.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Players.swift; sourceTree = "<group>"; };
+		A268E3CE28CA36CB00198D35 /* TeamMembers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamMembers.swift; sourceTree = "<group>"; };
+		A268E3D028CA398F00198D35 /* GroupTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupTeam.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +120,18 @@
 			children = (
 				A268E38A28C8E68C00198D35 /* Qatar_CompleteApp.swift */,
 				A268E38C28C8E68C00198D35 /* ContentView.swift */,
+				A268E3C028C903F100198D35 /* TeamView.swift */,
+				A268E3C628C9416500198D35 /* TeamsDetail.swift */,
+				A268E3D028CA398F00198D35 /* GroupTeam.swift */,
+				A268E3CE28CA36CB00198D35 /* TeamMembers.swift */,
+				A268E3B628C8ECF100198D35 /* Bundle-Extension.swift */,
+				A268E3B828C8ED2900198D35 /* Groups.swift */,
+				A268E3BE28C8F0D100198D35 /* Team.swift */,
+				A268E3CA28C985E800198D35 /* Players.swift */,
+				A268E3C428C93D3E00198D35 /* groups.json */,
+				A268E3BC28C8F07200198D35 /* team.json */,
+				A268E3C228C9252B00198D35 /* allTeams.json */,
+				A268E3C828C942BA00198D35 /* aFewPlayers.json */,
 				A268E38E28C8E68E00198D35 /* Assets.xcassets */,
 				A268E39028C8E68E00198D35 /* Preview Content */,
 			);
@@ -231,8 +267,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A268E3C328C9252B00198D35 /* allTeams.json in Resources */,
+				A268E3C528C93D3E00198D35 /* groups.json in Resources */,
 				A268E39228C8E68E00198D35 /* Preview Assets.xcassets in Resources */,
+				A268E3BD28C8F07200198D35 /* team.json in Resources */,
 				A268E38F28C8E68E00198D35 /* Assets.xcassets in Resources */,
+				A268E3C928C942BA00198D35 /* aFewPlayers.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +297,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A268E3D128CA398F00198D35 /* GroupTeam.swift in Sources */,
+				A268E3CB28C985E800198D35 /* Players.swift in Sources */,
+				A268E3CF28CA36CB00198D35 /* TeamMembers.swift in Sources */,
 				A268E38D28C8E68C00198D35 /* ContentView.swift in Sources */,
+				A268E3B728C8ECF100198D35 /* Bundle-Extension.swift in Sources */,
 				A268E38B28C8E68C00198D35 /* Qatar_CompleteApp.swift in Sources */,
+				A268E3BF28C8F0D100198D35 /* Team.swift in Sources */,
+				A268E3B928C8ED2900198D35 /* Groups.swift in Sources */,
+				A268E3C128C903F100198D35 /* TeamView.swift in Sources */,
+				A268E3C728C9416500198D35 /* TeamsDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
